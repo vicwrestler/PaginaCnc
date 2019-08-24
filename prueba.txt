@@ -2,21 +2,19 @@
 hola
 <!DOCTYPE html>
 <html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<h1>
+    	Hello, Dcoder
+    </h1>
 
-    <head>
-        <meta charset="UTF-8">
-        <title>Document</title>
-    </head>
-
-    <body>
-        <nav>
-            <ul>
-                <li>hola 1</li>
-                <li>hola 2</li>
-                <li>hola 3</li>
-                <li>hola 4</li>
-            </ul>
-        </nav>
-    </body>
-
+    <div class="nuevo">
+    	Ejemplo
+        <br>
+        
+    </div>
+</body>
 </html>
